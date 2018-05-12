@@ -1,0 +1,62 @@
+_repo: SprookjesTweede-verzameling_22555
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Midderigh, Jean Jacques
+    birthdate: 1877
+    deathdate: 1970
+    gutenberg_agent_id: '25407'
+    url: http://www.gutenberg.org/2009/agents/25407
+  - agent_name: Midderigh-Bokhorst, Johanna Berhardina
+    birthdate: 1880
+    deathdate: 1972
+    gutenberg_agent_id: '25406'
+    url: http://www.gutenberg.org/2009/agents/25406
+  translator:
+    agent_name: Eeden-Van Vloten, M. van
+    aliases:
+    - Van Vloten, M. Van Eeden
+    - Vloten, M. van Eeden-Van
+    - Vloten, Martha van
+    - Van Eeden-Van Vloten, M.
+    birthdate: 1857
+    deathdate: 1943
+    gutenberg_agent_id: '25405'
+    url: http://www.gutenberg.org/2009/agents/25405
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Grimm, Jacob
+    alias: Grimm, Jacob Ludwig Carl
+    birthdate: 1785
+    deathdate: 1863
+    gutenberg_agent_id: '971'
+    url: http://www.gutenberg.org/2009/agents/971
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Grimm
+  - agent_name: Grimm, Wilhelm
+    alias: Grimm, Wilhelm Carl
+    birthdate: 1786
+    deathdate: 1859
+    gutenberg_agent_id: '972'
+    url: http://www.gutenberg.org/2009/agents/972
+    wikipedia: http://en.wikipedia.org/wiki/Wilhelm_Grimm
+description: ''
+gutenberg_bookshelf:
+- Folklore
+- Children's Myths, Fairy Tales, etc.
+gutenberg_issued: '2007-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22555'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'PT'
+- !lcsh 'Fairy tales -- Germany'
+title: 'Sprookjes: Tweede verzameling'
+url: http://www.gutenberg.org/ebooks/22555
