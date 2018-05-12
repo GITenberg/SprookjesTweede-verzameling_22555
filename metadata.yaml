@@ -43,6 +43,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/972
     wikipedia: http://en.wikipedia.org/wiki/Wilhelm_Grimm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22555#SprookjesTweede-verzameling
 gutenberg_bookshelf:
 - Folklore
 - Children's Myths, Fairy Tales, etc.
